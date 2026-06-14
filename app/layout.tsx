@@ -16,7 +16,7 @@ const mono = JetBrains_Mono({
 
 export const metadata: Metadata = {
   // Update this to your real domain after deploy (used to make OG image URLs absolute).
-  metadataBase: new URL("https://pradumna-portfolio.vercel.app"),
+  metadataBase: new URL("https://pradumnabajoria.vercel.app/"),
   title: "Pradumna Bajoria — Frontend Engineer",
   description:
     "Frontend engineer (React, TypeScript) leading a platform migration used by 5,000+ users. Open to remote roles. Climb the mountain to higher ground.",
