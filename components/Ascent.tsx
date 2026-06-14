@@ -253,7 +253,7 @@ export default function Ascent() {
           <p>If you&apos;re hiring, let&apos;s talk.</p>
           <a className="btn" href={`mailto:${profile.email}`}>Email me</a>
           <p className="links mono">
-            <a href={profile.links.resume}>Résumé</a>
+            <a href={profile.links.resume}>Resume</a>
             <a href={profile.links.linkedin}>LinkedIn</a>
             <a href={profile.links.github}>GitHub</a>
           </p>
